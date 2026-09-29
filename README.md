@@ -203,4 +203,3 @@ The current implementation demonstrates the evidence-retrieval foundation and Ro
 ## Purpose
 
 This prototype is part of a larger **AI-Powered Systematic Review & Literature Review Platform** intended to assist researchers throughout the systematic review workflow, including literature screening, Risk of Bias assessment, data extraction and evidence synthesis.
-# AI-Assisted-Risk-of-Bias-Assessment
